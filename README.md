@@ -1,1 +1,1 @@
-# event_management
+# event_management_system
